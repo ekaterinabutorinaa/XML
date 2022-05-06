@@ -1,1 +1,14 @@
+<xml>
 
+  <Id>"1"</Id>
+  <Summary>"There is no field "email"  in the registration form"</Summary>
+  <Actual_result>"No email field"</Actual_result>
+  <Expected_result>"There is an email field"</Expected_result>
+  <Steps_to_reproduce>"1. Open the registration form"</Steps_to_reproduce>
+  <Reproducible>"Always"</Reproducible>
+  <Severity>"Smoke"</Severity>
+  <Priority>"ASAP"</Priority>
+  <Symptom>"Variance from spec"</Symptom>
+  <Status>"Open"</Status>
+
+</xml>
